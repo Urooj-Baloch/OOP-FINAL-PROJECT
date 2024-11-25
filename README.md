@@ -2,6 +2,21 @@
 **Project Title:**  
 Car Rental Management System with User Authentication and Payment Integration
 
+### Team Members
+<table>
+<tr>
+	<th>Name</th>
+	<th>Seat Number</th>
+</tr>
+<tr>
+	<td> Amna </td>
+	<td> 23k-0066</td>
+</tr>
+<tr>
+	<td> Urooj Baloch </td>
+	<td> 23k-0071 </td>
+</tr>
+</table>
 
 **Submission Date:**  
 [25-11-2024]
