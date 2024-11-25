@@ -1,3 +1,5 @@
+###PROJECT TITLE:
+CAR RENTAL MANAGEMENT SYSTEM WITH USER AUTHENTICATION AND PAYMENT INTEGRATION
 ### Team Members
 <table>
 <tr>
@@ -5,8 +7,8 @@
 	<th>Seat Number</th>
 </tr>
 <tr>
-	<td> Amna </td>
-	<td> 23k-0066</td>
+	<td> Mahnoor Hussain </td>
+	<td> 23k-0535</td>
 </tr>
 <tr>
 	<td> Urooj Baloch </td>
