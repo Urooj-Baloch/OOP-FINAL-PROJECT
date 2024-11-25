@@ -1,16 +1,25 @@
-
-
 ---
-
 **Project Title:**  
 Car Rental Management System with User Authentication and Payment Integration
 
-**Group Members:**  
-1. Mahnoor Hussain (Student ID: 23K-0535)  
-2. Urooj Baloch (Student ID: 23K-0071)
+### Team Members
+<table>
+<tr>
+	<th>Name</th>
+	<th>Seat Number</th>
+</tr>
+<tr>
+	<td> Mahnoor </td>
+	<td> 23k-0535</td>
+</tr>
+<tr>
+	<td> Urooj Baloch </td>
+	<td> 23k-0071 </td>
+</tr>
+</table>
 
 **Submission Date:**  
-[Date of Report Submission]
+[25-11-2024]
 
 ---
 
